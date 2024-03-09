@@ -1,13 +1,16 @@
 
 const namesData = require('./ijawnames.json');
 
-function capitalizeFirstLetter(string) {
-  return string.charAt(0).toUpperCase() + string.slice(1);
+function formatName(name) {
+  if (typeof name !== 'string') {
+    throw new Error('Input must be a string');
+  }
+  return name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
 }
 
 function ijawNames(name = '') {
   // Capitalize the user input
-  name = capitalizeFirstLetter(name);
+  name = formatName(name);
   const namesArray = Object.keys(namesData);
   
   const randomName = namesArray[Math.floor(Math.random() * namesArray.length)];
@@ -40,6 +43,6 @@ function ijawNames(name = '') {
   }
  
 }
-
+console.log(ijawNames('tamunominini').meaning)
 
 module.exports = ijawNames;

@@ -11,7 +11,17 @@
     "url": "git+ssh://git@github.com/Tam-BobManuel/ijaw-names.git"
   },
   "keywords": [
-    "ijaw"
+    "ijaw", 
+    "Niger-delta",
+    "front-end",
+    "back-end",
+    "CLI",
+    "Testing",
+    "CSS",
+    "mobile",
+    "Kalarabi",
+    "Nigeria",
+    "South"
   ],
   "author": "Tam dev",
   "license": "GPL-3.0-or-later",

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Ijaw Names Generator is a package designed to generate random Ijaw names along with their meanings. The Ijaw people are an ethnic group in the Niger Delta region of Nigeria, located in the South-South geopolitical zone of the country.
+The Ijaw and Kalabari Names Generator is a package designed to generate random Ijaw names along with their meanings. The Ijaw people are an ethnic group in the Niger Delta region of Nigeria, located in the South-South geopolitical zone of the country.
 
 This package allows users to:
 

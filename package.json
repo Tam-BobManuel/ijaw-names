@@ -1,0 +1,22 @@
+{
+  "name": "ijaw-names",
+  "version": "1.0.2",
+  "description": "a collection of ijaw names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tam-BobManuel/ijaw-names.git"
+  },
+  "keywords": [
+    "ijaw"
+  ],
+  "author": "Tam dev",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Tam-BobManuel/ijaw-names/issues"
+  },
+  "homepage": "https://github.com/Tam-BobManuel/ijaw-names#readme"
+}

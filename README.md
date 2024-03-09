@@ -3,7 +3,6 @@
 ## Overview
 
 The Ijaw Names Generator is a package designed to generate random Ijaw names along with their meanings. The Ijaw people are an ethnic group in the Niger Delta region of Nigeria, located in the South-South geopolitical zone of the country.
-COntributors are welcome, feel free to clone and add more ijaw names, I'll merge your changes after review.
 
 This package allows users to:
 
@@ -13,9 +12,13 @@ This package allows users to:
 
 ## Installation
 
-To install the Ijaw Names Generator package, use npm:
+To install the Ijaw-Names package, use npm:
 
-```npm install ijaw-names-generator```
+[npm package](https://www.npmjs.com/package/ijaw-names)
+
+use the command:
+
+```npm i ijaw-names```
 
 ## Usage
 

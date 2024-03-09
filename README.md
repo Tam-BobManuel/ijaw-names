@@ -12,9 +12,13 @@ This package allows users to:
 
 ## Installation
 
-To install the Ijaw Names Generator package, use npm:
+To install the Ijaw-Names package, use npm:
 
-```npm install ijaw-names-generator```
+[npm package](https://www.npmjs.com/package/ijaw-names)
+
+use the command:
+
+```npm i ijaw-names```
 
 ## Usage
 

@@ -27,7 +27,7 @@ function ijawNames(name = '') {
         // Check if the provided name exists in the JSON data
         if (namesData.hasOwnProperty(name)=== true) {
           return {
-            name: name,
+            name: true,
             meaning: namesData[name]
           };
         } else {
@@ -43,6 +43,5 @@ function ijawNames(name = '') {
   }
  
 }
-console.log(ijawNames('tamunominini').meaning)
 
 module.exports = ijawNames;

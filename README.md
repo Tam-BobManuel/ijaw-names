@@ -43,7 +43,7 @@ console.log(ijawNames().meaning);
 console.log(ijawNames().name);
 
 // Check if a specific Ijaw name exists
-console.log(ijawNames('Alawei'));
+console.log(ijawNames('Alawei').name);
 
 // Returns the meaning of name provided or false if it doesn't exist
 console.log(ijawNames('Alawei').meaning);

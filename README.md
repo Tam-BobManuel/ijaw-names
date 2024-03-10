@@ -47,6 +47,7 @@ console.log(ijawNames('Alawei').name);
 
 // Returns the meaning of name provided or false if it doesn't exist
 console.log(ijawNames('Alawei').meaning);
+```
 
 # Contributing
 

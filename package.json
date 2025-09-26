@@ -2,8 +2,11 @@
   "name": "ijaw-names",
   "version": "0.0.1",
   "description": "a collection of ijaw names",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/Tam-BobManuel/ijaw-names/issues"
   },
-  "homepage": "https://github.com/Tam-BobManuel/ijaw-names#readme"
+  "homepage": "https://github.com/Tam-BobManuel/ijaw-names#readme",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^18.0.0"
+  }
 }
